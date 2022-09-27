@@ -1,0 +1,12 @@
+Source: ampl-free-64
+Section: Science
+Priority: optional
+Maintainer: Jordi Román Mejias <Jordi.Roman@uab.cat>
+Build-Depends: debhelper-compat (= 12), wget, desktop-file-utils
+Standards-Version: 4.4.1
+
+Package: ampl-free-64
+Architecture: all
+Depends: ${misc:Depends}
+Description: Software AMPL free 64bits
+ This package contents the AMPL free software 64bit

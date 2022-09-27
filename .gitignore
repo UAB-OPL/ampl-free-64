@@ -1,0 +1,38 @@
+# Fichero temporales
+# --
+.*.swp
+*.bak
+*~
+TMP
+make_check*
+ampl.linux-intel64
+
+# Logs, paquetes deb y resultados intermedios
+# --
+*.log
+*.deb
+*.build
+*.changes
+*.tar.*
+*.buildinfo
+**/debian/*/**
+**/debian/debhelper*
+**/debian/*.debhelper
+**/debian/*.substvars
+**/debian/files
+**/*.buildinfo
+**/_OLD_
+
+# Ayudas de Filesystem
+# --
+*.directory
+.DS_STORE
+*.thumbsdb
+
+# Otros ficheros
+# --
+*.clear
+*.pub
+*.hash
+*.pass
+Packages
