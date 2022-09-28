@@ -1,10 +1,10 @@
 [Desktop Entry]
 Categories=Education;Science;
 Encoding=UTF-8
-Exec=/opt/ampl/amplide/amplide
-Icon=/opt//ampl/amplide/icon.xpm
-Name=AMPL Ide 64bits
-Path=/opt/ampl/amplide/
+Exec=/opt/ampl-free/amplide/amplide
+Icon=/opt/ampl-free/amplide/icon.xpm
+Name=AMPL Free Ide 64bits
+Path=/opt/ampl-free/amplide/
 StartupNotify=true
 Terminal=false
 Type=Application
