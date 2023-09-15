@@ -1,3 +1,9 @@
+ampl-free-64 (1.0+20230915) unstable; urgency=medium
+
+  * #SU-114659 AMPL Version demo descargada 20230915
+
+ -- Jordi Román Mejias <Jordi.Roman@uab.cat>  Fri, 15 Sep 2023 14:29:19 +0200
+
 ampl-free-64 (1.0+20220926) unstable; urgency=medium
 
   * Initial Release. #SU-50676
